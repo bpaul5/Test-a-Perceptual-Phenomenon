@@ -5,15 +5,10 @@ Analyzed the Stroop effect using descriptive statistics to provide an intuition 
 
 Topics include:
 
--Statistics
-
--Hypothesis Testing
-
--P-Values
-
--Measures of Central Tendency
-
--Measures of Variability
-
--Visual Data
+- Statistics
+- Hypothesis Testing
+- P-Values
+- Measures of Central Tendency
+- Measures of Variability
+- Visual Data
 
